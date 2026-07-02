@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Reply Writer"
+  short_description: "Draft clear English replies for trade customers."
+  default_prompt: "Help me reply to this customer in simple professional English."

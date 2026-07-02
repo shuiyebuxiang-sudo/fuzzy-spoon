@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Customer Developer"
+  short_description: "Find, score, and follow up export leads."
+  default_prompt: "Help me develop and follow up foreign trade customers."

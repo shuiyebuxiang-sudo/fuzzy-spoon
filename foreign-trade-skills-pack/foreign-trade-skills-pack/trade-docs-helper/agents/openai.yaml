@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Docs Helper"
+  short_description: "Create PI, CI, PO, certificate of origin, and customs documents from trade templates."
+  default_prompt: "Help me prepare foreign-trade documents from customer requests and templates."

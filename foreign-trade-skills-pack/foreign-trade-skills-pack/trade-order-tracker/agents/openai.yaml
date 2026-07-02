@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Order Tracker"
+  short_description: "Track order steps from PI to shipment."
+  default_prompt: "Help me track this foreign trade order and next steps."

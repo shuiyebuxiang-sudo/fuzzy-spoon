@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Message Reader"
+  short_description: "Understand customer trade messages and identify what they want."
+  default_prompt: "Read this customer message and tell me what they want and what I should do next."

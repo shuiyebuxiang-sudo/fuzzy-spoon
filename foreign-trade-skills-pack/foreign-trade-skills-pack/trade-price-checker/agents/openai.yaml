@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Price Checker"
+  short_description: "Check prices, totals, and quote sheet issues."
+  default_prompt: "Help me check these prices and totals."

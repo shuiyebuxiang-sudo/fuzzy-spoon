@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Shipment Checker"
+  short_description: "Check shipment, customs, and export document readiness."
+  default_prompt: "Help me check whether these shipment and customs documents are complete."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Quote PI Maker"
+  short_description: "Prepare quotes and PI from model lists."
+  default_prompt: "Help me make a quote or PI from this customer request."
